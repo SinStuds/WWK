@@ -36,6 +36,7 @@ public class PBowTrigger implements Listener {
                 // bobby jones
                 //2y33h218973g1293gh12iub
                 // chickenmcnuggets
+                // majke the private COoldown cd a double and make cooldown like 0.6
             }
         }
     }
