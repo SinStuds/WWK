@@ -33,6 +33,7 @@ public class PBowTrigger implements Listener {
             }
             else{
                 player.sendMessage(Util.format("&7On Cooldown!"));
+                // bobby jones
             }
         }
     }
