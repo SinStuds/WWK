@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="WWK">
-    <output-path>$USER_HOME$/Desktop/Serber/plugins</output-path>
-    <root id="archive" name="WWK.jar">
-      <element id="module-output" name="WWK" />
-    </root>
-  </artifact>
-</component>
