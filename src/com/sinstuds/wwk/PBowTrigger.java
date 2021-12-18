@@ -35,6 +35,7 @@ public class PBowTrigger implements Listener {
                 player.sendMessage(Util.format("&7On Cooldown!"));
                 // bobby jones
                 //2y33h218973g1293gh12iub
+                // chickenmcnuggets
             }
         }
     }
