@@ -1,0 +1,38 @@
+name: WWK
+main: com.sinstuds.wwk.WWK
+description: Amongu
+author: SinStuds
+version: 1.0
+api-version: 1.17
+commands:
+  fbl:
+    description: FBL get
+    aliases: [rayoflag]
+  heal:
+    description: Heals
+    aliases: [saveme, gethealth]
+  feed:
+    description: Feeds Player
+    aliases: [eat, gethunger]
+  pblade:
+    description: No
+    aliases: [posion]
+  pbow:
+    description: momo
+    aliases: [bow]
+permissions:
+  wwk.cmd.heal:
+    description: Op only
+    default: op
+  wwk.cmd.feed:
+    description: Op only
+    default: op
+  wwk.cmd.fbl:
+    description: Op only
+    default: op
+  wwk.cmd.pblade:
+    description: Op only
+    default: op
+  wwk.cmd.pbow:
+    description: Op only
+    default: op
